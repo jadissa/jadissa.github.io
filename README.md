@@ -1,6 +1,13 @@
 ## Heyo 👾
 
-![opacity:.5](https://raw.githubusercontent.com/jadissa/jadissa/refs/heads/main/images/bg.png)
+img[src*="#MediumOpacity"] {
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
+
+![alt](https://raw.githubusercontent.com/jadissa/jadissa/refs/heads/main/images/bg.png#MediumOpacity)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadissa&theme=synthwave)
 
