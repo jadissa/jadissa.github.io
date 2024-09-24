@@ -1,6 +1,6 @@
 ## Heyo 👾
 
-![opacity:.5][This is an alt text.](https://github.com/jadissa/jadissa/blob/main/images/bg.png "This is a sample image.")
+![opacity:.5](https://raw.githubusercontent.com/jadissa/jadissa/refs/heads/main/images/bg.png)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadissa&theme=synthwave)
 
