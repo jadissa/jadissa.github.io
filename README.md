@@ -1,14 +1,7 @@
 ## Heyo 👾
-
-img[src*="#MediumOpacity"] {
-    opacity: 0.5;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
-
-![alt](https://raw.githubusercontent.com/jadissa/jadissa/refs/heads/main/images/bg.png#MediumOpacity)
 <!--
+![opacity:.5](https://raw.githubusercontent.com/jadissa/jadissa/refs/heads/main/images/bg.png#MediumOpacity)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadissa&theme=synthwave)
 
 ![Jadissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadissa&show_icons=true&theme=synthwave)
