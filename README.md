@@ -1,6 +1,6 @@
 ## Heyo 👾
 
-![opacity:.5][This is an alt text.](/images/bg.png "This is a sample image.")
+![opacity:.5][This is an alt text.](./images/bg.png "This is a sample image.")
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadissa&theme=synthwave)
 
