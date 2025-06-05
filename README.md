@@ -1,4 +1,5 @@
 ## Heyo 👾
+![Resume](https://jadissa.github.io/)
 <!--
 ![opacity:.5](https://raw.githubusercontent.com/jadissa/jadissa/refs/heads/main/images/bg.png#MediumOpacity)
 
