@@ -1,11 +1,11 @@
 :root {
-	--body: #FFF;
+	--body: #fff;
 	--left: #121114;
 	--right: #1a191e;
-	--text: #FFF;
+	--text: #fff;
 	--high: #6ad4ec;
 	--prominent: #27262a;
-	--industry: #6ad4ec;
+	--prominent-click: #525059;
 	--link: #6ad4ec;
 	--link-hover: #6ad4ec;
 	--margin: 10px;
@@ -53,17 +53,8 @@ h1 {
 	border-radius: 5px;
 	padding: 5px;
 }
-h2 {
-	font-size: 0.8em;
-	background-color: var(--prominent); 
-	border-radius: 5px;
-	padding: 5px;
-}
-h3 {
-	font-size: 0.6em;
-	background-color: var(--prominent); 
-	border-radius: 5px;
-	padding: 5px;
+h1:hover {
+	background-color: var(--prominent-click);
 }
 ul {
 	list-style-type: square;
@@ -71,9 +62,6 @@ ul {
 li {
 	margin: 0;
 	margin-left: -2px;
-}
-li:hover {
-	background-color: var(--prominent);
 }
 a {
 	color: var(--link-hover);
@@ -85,10 +73,6 @@ a:hover {
 }
 small {
 	font-size: 0.7em;
-}
-.industry {
-	clear: none;
-	color: var(--industry); 
 }
 div.highlight {
 	color: var(--high);
