@@ -26,11 +26,12 @@ html,body {
 	font-size: 14px;
 	color: var(--text);
 	background-color: var(--body);
+	overflow: hidden;
 }
 section {
 	float: left;
 	height: 100%;
-	overflow: auto;
+	overflow: inherit;
 }
 section * {
 	margin: var(--margin);
